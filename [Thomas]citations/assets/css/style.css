@@ -1,0 +1,39 @@
+body{
+    background: linear-gradient(90deg, rgba(0,0,139,1) 0%, rgba(255,235,0,1) 100%);
+}
+
+button{
+    margin-top: 3rem;
+    width: 10%;
+    height: 3rem;
+    margin-left: 45%;
+    background-color: darkblue;
+    color: rgb(202, 205, 50);
+    font-size: 1rem;
+    font-weight: bold;
+}
+
+div{
+    border: 8px dashed black;
+    background: white;
+    width: 60%;
+    height: 30rem;
+    margin-left: 20%;
+    margin-top: 3rem;
+    text-align: center;
+}
+
+h1{
+    margin-top: 8rem;
+    margin-left: 4rem;
+    margin-right: 4rem;
+    font-size: 2rem;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h2{
+    margin-top: 3rem;
+    margin-left: 4rem;
+    margin-right: 4rem;
+    font-size: 1.2rem;
+}
