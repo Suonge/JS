@@ -10,7 +10,7 @@ var texte = document.querySelector("h2");
 // LANCE LE JEU
 var enjeu = false;
 // NOMBRE A TROUVER
-var nombreA = null;
+var nombreA= null;
 // NOMBRE ENTREE
 var nombreC = null;
 // COMPTEUR DE TENTATIVES
